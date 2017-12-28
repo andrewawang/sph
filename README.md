@@ -1,3 +1,3 @@
-#SPH
+# SPH
 
 The stupid password hasher.
